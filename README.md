@@ -4,4 +4,4 @@
 
 [Link](https://maxib62.github.io/relojConBotones/)
 
-[JS](/JS/Reloj.js)
+[JS](JS/botonesyreloj.js)
